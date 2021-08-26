@@ -5,19 +5,29 @@
 This application enables individual to read different blogs written by different people. Also one can register as the writed and will be posting blogs As a user of the web application you will be able to:
 
  1.View posted blogs
+
  2.Comment on posted blog
+
  3.Subscribe for notifications
+
 As the writer, you will be able to
 
  1.Register and sign in to the application
+
  2.Post a blog
  3.Delete insulting comments
+ 
 ### Setup and installations
  .Clone Project to your machine
+
  .Activate a virtual environment on terminal: source       virtual/bin/activate
+
  .Install all the requirements found in requirements file.
+
  .On your terminal run python3.8 manage.py runserver
+
  .Access the live site using the local host provided
+
 ## Getting started
 ## Prerequisites
 python3.8
